@@ -1,0 +1,49 @@
+.box {
+  min-height: 50px;
+  padding: 10px;
+  
+  margin: 10px;
+  font-weight: 400;
+  color: #fff;
+  
+  background: rgb(175, 230, 208);
+}
+
+.whitebox {
+  min-height: 50px;
+  padding: 10px;
+  
+  margin: 10px;
+  font-weight: 400;
+  color: rgb(19, 2, 2);
+  
+  background: rgb(255, 255, 255);
+}
+
+.whitebox2 {
+  min-height: 50px;
+  font-weight: 400;
+  color: rgb(19, 2, 2);
+  
+  background: rgb(255, 255, 255);
+}
+
+span.text {
+  font-size: 1em
+}
+
+.white {
+  background: rgb(255, 255, 255);
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
+}
+
+.tiny{
+  font-size: 14px
+}
